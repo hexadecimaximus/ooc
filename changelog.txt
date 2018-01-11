@@ -1,1 +1,3 @@
 2017-12-17 (Seth): Iniciada a introdução do artigo
+
+2018-01-11 (Seth): Iniciado Módulo Polimorfismo 0.1
