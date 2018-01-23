@@ -1,3 +1,7 @@
 2017-12-17 (Seth): Iniciada a introdução do artigo
 
 2018-01-11 (Seth): Iniciado Módulo Polimorfismo 0.1
+
+2018-01-18 (Seth): Iniciado Apêndice A - Tratamento de exceções, parte 1: uso de goto e setjmp/longjmp
+
+2018-01-22 (Seth): Apêndice A finalizado - tratamento de exceções tópico 3, exceções associadas a inteiros 

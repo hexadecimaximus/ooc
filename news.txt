@@ -3,3 +3,9 @@ Versão 1.0-Seth, de 17 de dezembro de 2017
 
 Versão 1.0-Seth, de 11 de janeiro de 2018
 	-Módulo 1.0 - polimorfismo - é iniciado
+
+Versão 1.0-Seth, de 18 de janeiro de 2018
+	-Apêndice A - Tratamento de exceções, parte 1, uso de goto de funções setjmp/longjmp
+
+Versão 1.0-Seth, de 22 de janeiro de 2018
+	-Apêndice A - Finalizado: postado parte final, com uso de exceções em C associando-as a inteiros
